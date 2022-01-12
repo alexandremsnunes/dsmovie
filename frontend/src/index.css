@@ -13,7 +13,7 @@ html, body {
     background-color: #E5E5E5;
 }
 
-a, a:hover {
-  text-decoration: none;
-  color: unset;
-} 
+a, a:hover{
+  text-decoration: none!important;
+  color: unset!important;
+}
